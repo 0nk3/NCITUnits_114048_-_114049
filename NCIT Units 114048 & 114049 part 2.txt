@@ -10,7 +10,7 @@ Part 2: Querying a database
 
 5. DELETE FROM Customer WHERE CustomerID = 2
 
-6. SELECT COUNT(DISTINCT Status) FROM Ordes
+6. SELECT COUNT(DISTINCT Status) FROM Orders
 
 7. SELECT max(Amount) FROM Payments
 
