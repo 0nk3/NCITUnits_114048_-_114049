@@ -14,7 +14,7 @@ Part 2: Querying a database
 
 7. SELECT max(Amount) FROM Payments
 
-8. SELECT max(Amount) FROM Payments ORDER BY COUNTRY
+8. SELECT max(Amount) FROM Payments ORDER BY Country
 
 9. SELECT * FROM Products WHERE BuyPrice > 100 OR BuyPrice < 600
 
